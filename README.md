@@ -35,7 +35,7 @@ already ~80% accurate while catching zero churners.
 
 ## Projects
 
-### 1. `Bank_Churn_NN_FIXED.ipynb` — Neural network (depth)
+### 1. `Bank_Churn_NN.ipynb` — Neural network (depth)
 
 A single feed-forward neural network built in **Keras / TensorFlow**, taken end to
 end: load → encode → scale → build → train → evaluate → tune with k-fold
