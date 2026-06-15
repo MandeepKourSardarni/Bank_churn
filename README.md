@@ -86,15 +86,6 @@ membership**.
 
 ---
 
-## Repository structure
-
-```
-.
-├── Churn_Modelling.csv               # dataset (10,000 customers)
-├── Bank_Churn_NN_FIXED.ipynb         # Project 1: neural network (Keras)
-├── Bank_Churn_MultiAlgorithm.ipynb   # Project 2: 11-algorithm comparison
-└── README.md
-```
 
 ## How to run
 
